@@ -1,0 +1,17 @@
+test case 1=> verify user can register use their mobile number when download whatapp.
+test case 2=> verify user get verification code to his mobile number when new user register whatapp.
+test case 3=> verify the maximum number of incorrect attempt allowed when fill the verification code as specified.
+test case 4=> verify the registering the existing mobile number is not allowed for new user account registeration.
+test case 5=> verify after successful registeration all contact are imported to what app contact list.
+test case 6=>verify user can set their DP and whatapp status.
+test case 7=> verify the user able to send messages to individul selected contact from his contact list.
+test case 8=> verify the user able to see images, messages, videos are sent from other to his whatapp.
+test case 9=> verify the user able to see message send time and received time from the message info section.
+test case 10=> verify user can delete text, images, video and audio from his chat.
+test case 11=> verify user can block/unblock contact from whatapp contact.
+test case 12=> verify user can create the whatapp group and add and send request to other contact from his list.
+test case 13=> verify user able to forward same message to other whatapp contact.
+test case 14=> verify user able to use emoji in whatapp.
+test case 15=>verify user can use privacy policy which are like turn on/off last seen,online status, read receipt
+test case 16=> verify user able to delete messages received from user side and message sent to others from user side.
+test case 17=> verify user can delete whatapp account.

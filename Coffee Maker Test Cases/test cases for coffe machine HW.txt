@@ -1,0 +1,12 @@
+test case 1=> verify the power button is working after pressing the coffee machine
+test case 2 => verify the machine is turing on after press the power on button of coffee machine.
+test case 3=> verify the machine is turning off after press the power off button of coffee machine.
+test case 4=> verify all the button of the machine having the images that indicates task it performe.
+test case 5=> verify the all the buttons of the machine perfoer their task when it press on.
+test case 6=> verify wheather the quantity of cup working or no
+test case 7=> verify the input mechanism of milk, water, and coffee powder work as expected.
+test case 8=> verfiy the heating the water evenly as per requirement 
+test case 9=> verify the machine mixing water, milk, cofee in a right amout as expected.
+test case 10=>verify the machine indicates sign when the incredient in the machine is over.
+test case 11=> verify the amount of coffee is served as per specification.
+test case 12=> verify the machine is indicating when some mechanism not working in the machine. 
